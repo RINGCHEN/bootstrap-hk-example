@@ -1,0 +1,25 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p,span,a,ol,ul,li,dl,textarea
+{
+    font-family: 'Noto Serif TC', serif;
+}
+
+
+#intro .jumbotron{
+    height: 70vh;
+
+}
+
+#intro h1{
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 3.5;
+}
+
+#intro .btn{
+    background: #610;
+    color: white;
+    line-height: 1.5;
+}
