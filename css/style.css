@@ -22,4 +22,17 @@ p,span,a,ol,ul,li,dl,textarea
     background: #610;
     color: white;
     line-height: 1.5;
+    border-radius: 20px;
+    padding: (10px 120px)
+}
+
+#intro .container{
+    position: relative;
+    top: 50%;
+    -webkit-transform: translatY(-50%);
+    -ms-transform: translatY(-50%);
+    transform: translateY(-50%);
+}
+header nav img{
+    width: 168px;
 }
