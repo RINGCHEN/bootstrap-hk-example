@@ -15,7 +15,7 @@ p,span,a,ol,ul,li,dl,textarea
 #intro h1{
     font-size: 52px;
     font-weight: 800;
-    line-height: 3.5;
+    line-height: 1.5;
 }
 
 #intro .btn{
@@ -35,4 +35,27 @@ p,span,a,ol,ul,li,dl,textarea
 }
 header nav img{
     width: 168px;
+}
+
+#second h3{
+    margin: 30px;
+}
+
+p.h4{
+    color: #0befab;
+    
+}
+img{
+    max-width: 100%;
+}
+
+#least .upper{
+    position: relative;
+}
+
+#least .innertext{
+ position: absolute;
+ bottom: 0px;
+ left: 8px;
+
 }
